@@ -1,7 +1,6 @@
-- 👋 Hey, I’m @FreshHades aka vaidehi.
-- 👀 My interests lie in art, literature and code.
+-  Hey, I’m @FreshHades aka vaidehi.
+- 💞️ My interests lie in art, literature and code.
 - 🌱 Currently in university for electronics and telecommunication engineering.
-- 💞️ Looking to collaborate on open source projects
 - 📫 Reach out to me: vaidehideshpande17@gmail.com
 
 <!---
